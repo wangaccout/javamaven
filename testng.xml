@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="more suites testing" verbose="1"
+	preserve-order="true" parallel="false">
+
+	<suite-files>
+		<suite-file path="runtest/NewTestRun.xml" />
+	</suite-files>
+    
+</suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="RegistLogin" parallel="classes" thread-count="5">
+	<test name="newTest" preserve-order="true"
+		parallel="tests">
+		<classes>
+
+			<class name="mavenone.NewTest">
+				<methods>
+					<include name="f"/>
+				</methods>
+			</class>
+
+		</classes>
+	</test>
+</suite>
