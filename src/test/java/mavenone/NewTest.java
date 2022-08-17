@@ -10,4 +10,10 @@ public class NewTest {
 	  System.out.println("this is new test");
 	  Assert.assertTrue(true);
   }
+  
+  @Test
+  public void w() {
+	  System.out.println("一个测试");
+	  Assert.assertTrue(true);
+  }
 }

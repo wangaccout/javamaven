@@ -7,7 +7,9 @@
 			<class name="mavenone.NewTest">
 				<methods>
 					<include name="f"/>
+					<include name="w"/>
 				</methods>
+				
 			</class>
 
 		</classes>
