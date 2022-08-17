@@ -3,6 +3,7 @@
 	preserve-order="true" parallel="false">
 
 	<suite-files>
+		
 		<suite-file path="runtest/NewTestRun.xml" />
 	</suite-files>
     
